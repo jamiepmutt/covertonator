@@ -1,6 +1,6 @@
 //this is where I will put my comments even though this is for fun
 //This is by Jamie Perlmutter
-//Jan 17 2011
+
 
 #include <iostream>
 using namespace std;
